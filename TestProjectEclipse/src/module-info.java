@@ -2,7 +2,7 @@
  * 
  */
 /**
- * 
+ * comment
  */
 module TestProjectEclipse {
 }
